@@ -4,7 +4,7 @@
 Plugin Name: SMS Envoi 
 Plugin URI: http://www.smsenvoi.com/api-sms/envoi-sms-wordpress/
 Description: Ajoute des fonctionnalités d'envoi de SMS à votre site Wordpress. Envoyez des SMS à vos utilisateurs . Permet également de recevoir un SMS lorsqu'un commentaire est posté ou un article est publié
-Version: 1.0.0 
+Version: 1.1.0 
 Author: <a href="http://www.smsenvoi.com/">SMSENVOI.com</a> 
 Author URI: http://www.smsenvoi.com 
 */  

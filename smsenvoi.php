@@ -37,7 +37,7 @@ if (!class_exists("smsenvoi")) {
 			
 			
 			add_action('comment_post',array($this,'notify_comment_posted'));
-			add_action('save_post',array($this,'notify_save_post'));
+			add_action('publish_post',array($this,'notify_save_post'));
 			
 			add_action('admin_init', array($this,'admin_init') );            
 			
